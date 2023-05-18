@@ -1,6 +1,9 @@
+import 'package:api_starting_flutter/example_five.dart';
 import 'package:api_starting_flutter/example_three.dart';
 import 'package:api_starting_flutter/example_two.dart';
+import 'package:api_starting_flutter/exapmple_four.dart';
 import 'package:api_starting_flutter/home_screen.dart';
+import 'package:api_starting_flutter/signup.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -23,7 +26,7 @@ class MyApp extends StatelessWidget {
       // home: HomeScreen(),
 
       // photos api
-      home: ExampleThree(),
+      home: ExampleFive(),
 
     );
   }
