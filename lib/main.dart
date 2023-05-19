@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       // home: HomeScreen(),
 
       // photos api
-      home: ExampleFive(),
+      home: SignUp(),
 
     );
   }
